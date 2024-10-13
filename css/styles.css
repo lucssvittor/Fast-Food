@@ -686,18 +686,18 @@ summary{
     }
 
     #menu {
-        padding: 20px 0; /* Reduz o padding para telas menores */
-        margin-top: 0; /* Remove margens no topo para otimizar o espaço */
+        padding: 20px 0; 
+        margin-top: 0;
     }
 
     header {
-        font-size: 1.5rem; /* Ajusta o tamanho do texto no header */
+        font-size: 1.5rem; 
     }
     
-    /* Ajusta o layout dos itens no menu */
+    
     .menu-items {
         display: flex;
-        flex-direction: column; /* Alinha os itens em coluna no mobile */
+        flex-direction: column;
         gap: 10px;
         justify-content: center;
         align-items: center;
@@ -768,14 +768,14 @@ summary{
 	#hero h1 {
 		font-size: 7rem;
 	}
-	/* End Hero */
+	/* Fim Hero */
 
 	/* Services Section */
 	#services .service-bottom .service-item {
 		flex-basis: 45%;
 		margin: 2.5%;
 	}
-	/* End Services Section */
+	/* Fim Services Section */
 
 	/* Project */
 	#projects .project-item {
@@ -821,7 +821,7 @@ summary{
 	#about .col-right h1 {
 		text-align: left;
 	}
-	/* End About */
+	/* Fim About */
 
 	/* contact  */
 	#contact .contact {
